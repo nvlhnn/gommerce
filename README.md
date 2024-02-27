@@ -45,7 +45,7 @@ GO111MODULE=on
 IS_SEEDING=true
 
 REDIS_ADDR=host.docker.internal
-REDIS_PASS=redpassn
+REDIS_PASS=
 REDIS_DB=0
 REDIS_PORT=6379
 ```
