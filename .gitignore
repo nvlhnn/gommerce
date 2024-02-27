@@ -1,0 +1,5 @@
+.env.docker
+.env.dev
+fly.toml
+.air.toml
+tmp
