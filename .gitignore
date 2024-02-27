@@ -3,3 +3,4 @@
 fly.toml
 .air.toml
 tmp
+.env.prod
