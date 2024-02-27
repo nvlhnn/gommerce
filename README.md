@@ -7,6 +7,9 @@ Gommerce is a backend RESTful API application that serves as the backbone for an
 - Utilize caching to enhance browsing speed and performance
 - Implement rate limiting to ensure fair usage and prevent abuse 
 
+## Database Schema
+[![db schema](./docs/db_scchemas.png)]
+
 ## Instalation
 
 To install and run the Gommerce application locally, follow these steps:
